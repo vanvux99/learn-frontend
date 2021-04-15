@@ -11,3 +11,12 @@ h1 {
 div li {
     color: var(--xanh);
 }
+
+table {
+    margin: 3vh 0vw 3vh 25vw;
+    width: 50vw;
+    height: 150px;
+    border: 1px black;
+    box-sizing: border-box;
+    text-align: center;
+}
