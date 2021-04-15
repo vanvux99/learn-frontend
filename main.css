@@ -1,4 +1,13 @@
+root {
+    --do: red;
+    --xanh: blue;
+}
+
 h1 {
     color: red;
     font-size: 28px;
+}
+
+div li {
+    color: var(--xanh);
 }
